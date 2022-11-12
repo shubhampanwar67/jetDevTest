@@ -38,7 +38,7 @@ The first screen which shows on the start it has following inputs
 
 for incorrect password following toast will popup
 
-![alt text](https://github.com/shubhampanwar67/jetDevTest/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-13%20at%2000.28.33.png?raw=truee)
+![alt text](https://github.com/shubhampanwar67/jetDevTest/blob/master/screenshots/incorrectpass.png?raw=true)
 
 ### Home
 
