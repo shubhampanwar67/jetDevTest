@@ -54,6 +54,7 @@ const Login = () => {
             placeholder="Email"
             value={usernameText}
             onChangeText={onChangeUserNameText}
+            style={{textTransform: 'lowercase'}}
           />
 
           <InputTextAtom
@@ -61,6 +62,7 @@ const Login = () => {
             placeholder="Password"
             secureTextEntry={true}
             value={passwordText}
+            style={{textTransform: 'lowercase'}}
             onChangeText={onChangePasswordText}
           />
 
