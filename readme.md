@@ -44,13 +44,13 @@ for incorrect password following toast will popup
 
 This screens shows the list of user, every item has a start button upon which the item transfer to favourite tab
 
-![alt text](https://github.com/shubhampanwar67/jetDevTest/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-13%20at%2000.28.33.png?raw=truee)
+![alt text](https://github.com/shubhampanwar67/jetDevTest/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-13%20at%2000.25.56.png?raw=true)
 
 ### Favourite
 
 List of user which are selected as favourites are listed here
 
-![alt text](https://github.com/shubhampanwar67/jetDevTest/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-13%20at%2000.28.33.png?raw=truee)
+![alt text](https://github.com/shubhampanwar67/jetDevTest/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-13%20at%2000.26.07.png?raw=true)
 
 ```
 ## License
